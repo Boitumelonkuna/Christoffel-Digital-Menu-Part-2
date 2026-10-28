@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Christoffel Digital Menu",
+    "slug": "christoffel-digital-menu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F3E9"
+    }
+  }
+}
